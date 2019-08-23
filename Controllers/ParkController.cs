@@ -27,6 +27,24 @@ namespace ProjectAPI.Controllers
             _db.Parks.Add(park);
             _db.SaveChanges();
         }
+
+
+        
+        [HttpPut("{id}")]
+        public void Put(int id, [FromBody] Park park)
+        {
+            park.ParkId = id;
+            _db.Entry(park).State = EntityState.Modified;
+            _db.SaveChanges();
+        }
+
+        [HttpDelete("{id}")]
+        public void Delete(int id)
+        {
+            var parkToDelete = _db.Parks.FirstOrDefault(x => x.ParkId == id);
+            _db.Parks.Remove(parkToDelete);
+            _db.SaveChanges();
+        }
              
      
     }

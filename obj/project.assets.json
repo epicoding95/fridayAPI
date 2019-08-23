@@ -12161,11 +12161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/projectAPI/projectAPI.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/fridayAPI/projectAPI.csproj",
       "projectName": "projectAPI",
-      "projectPath": "/Users/Guest/Desktop/projectAPI/projectAPI.csproj",
+      "projectPath": "/Users/Guest/Desktop/fridayAPI/projectAPI.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/projectAPI/obj/",
+      "outputPath": "/Users/Guest/Desktop/fridayAPI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

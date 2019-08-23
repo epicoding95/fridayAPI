@@ -8,8 +8,8 @@ using ProjectAPI.Models;
 namespace projectAPI.Migrations
 {
     [DbContext(typeof(ProjectAPIContext))]
-    [Migration("20190823211042_anotherone")]
-    partial class anotherone
+    [Migration("20190823212231_initial")]
+    partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
