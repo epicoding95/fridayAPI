@@ -1,0 +1,14 @@
+/Users/Guest/Desktop/projectAPI/bin/Debug/netcoreapp2.2/projectAPI.deps.json
+/Users/Guest/Desktop/projectAPI/bin/Debug/netcoreapp2.2/projectAPI.runtimeconfig.json
+/Users/Guest/Desktop/projectAPI/bin/Debug/netcoreapp2.2/projectAPI.runtimeconfig.dev.json
+/Users/Guest/Desktop/projectAPI/bin/Debug/netcoreapp2.2/projectAPI.dll
+/Users/Guest/Desktop/projectAPI/bin/Debug/netcoreapp2.2/projectAPI.pdb
+/Users/Guest/Desktop/projectAPI/obj/Debug/netcoreapp2.2/projectAPI.csprojAssemblyReference.cache
+/Users/Guest/Desktop/projectAPI/obj/Debug/netcoreapp2.2/projectAPI.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/projectAPI/obj/Debug/netcoreapp2.2/projectAPI.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/projectAPI/obj/Debug/netcoreapp2.2/projectAPI.RazorAssemblyInfo.cs
+/Users/Guest/Desktop/projectAPI/obj/Debug/netcoreapp2.2/projectAPI.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/projectAPI/obj/Debug/netcoreapp2.2/projectAPI.AssemblyInfo.cs
+/Users/Guest/Desktop/projectAPI/obj/Debug/netcoreapp2.2/projectAPI.RazorTargetAssemblyInfo.cache
+/Users/Guest/Desktop/projectAPI/obj/Debug/netcoreapp2.2/projectAPI.dll
+/Users/Guest/Desktop/projectAPI/obj/Debug/netcoreapp2.2/projectAPI.pdb
