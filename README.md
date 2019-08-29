@@ -20,15 +20,44 @@
 
 ## Setup/Installation Requirements
 
-* go to https://github.com/epicoding95/projectAPI
+* go to https://github.com/epicoding95/fridayAPI
 
-* Open up your terminal, go to the desktop screem and type in the command "git clone https://github.com/epicoding95/ProjectAPI"
+* Open up your terminal, go to the desktop screem and type in the command "git clone https://github.com/epicoding95/fridayAPI"
+
+1. Clone this repository:
+    ```
+     Once you have this webpage cloned to your desktop navigate into the folder and run "dotnet run".
+    ```
+2. Navigate to postman:
+    ```
+     Once the server is running navigate into postman and copy the link that your localhost is running on so "http://localhost:5000"
+    ```
+3. CREATE/READ/UPDATE/DELETE:
+    ```
+    when you initially go to this page swagger will show you all of the different combinations of api calls you can do.
+    ```
 
 
-* Once you have this webpage cloned to your desktop navigate into the folder and run "dotnet run".
-* Once the server is running navigate into postman and copy the link that your localhost is running on so "http://localhost:5000 then add /api/park
-* When you're on this link you will be able to see the list and post to this list
-* If you'd like to edit or delete a specific national park then you need to add the ID to the end of the link and echange the command to a put/delete command
+
+
+## Known Bugs
+* No known bugs at this time.
+
+## Support and contact details
+kelcrisp007@icloud.com
+
+## Technologies Used
+*c#
+*.net core
+*swagger
+
+### License
+
+Copyright (c) 2019 **Kelar Crisp**
+
+This website is licensed under the MIT license.
+
+
 
 
 ## Known Bugs
