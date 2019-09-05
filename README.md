@@ -11,12 +11,12 @@
 ## specs
 
 
-| Spec |
-| :-------------     |
 | **Add National parks to the API** |
+| :-------------     |
 | **see the list of National Parks that you've created.** |
-| **Edit individual National parks that you've created** |
+| **Edit individual National parks that you've created.** |
 | **Delete individual parks that have been created** |
+
 
 ## Setup/Installation Requirements
 
